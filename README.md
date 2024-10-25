@@ -35,7 +35,7 @@ This project includes several visualizations, such as:
 
 ## How to Use
 
-1. Download the project files, including the dataset (`coffeeOrdersProject.xlsx`).
+1. Download the project files, including the dataset (`coffeeOrdersdata.xlsx`).
 2. Load the data into your preferred tool, such as Excel or Python.
 3. Analyze the sales data to uncover insights or use the prebuilt visualizations.
 
